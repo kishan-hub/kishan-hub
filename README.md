@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Upwork.
 - 🤔 I’m looking for help with Documentation.
 - 💬 Ask me about Spring framework or any tech related stuff
-- 📫 How to reach me: Linkedin.
+- 📫 How to reach me: Twiter 
 - 😄 Pronouns: ...He/His
 - ⚡ Fun fact: I Spend almost listning music 5 hours a day.
--->
